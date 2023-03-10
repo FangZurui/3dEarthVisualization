@@ -1,0 +1,5 @@
+<Map name="Map">
+	<GDALImage name="worldMap">
+		<url>world.tif</url>
+	</GDALImage>
+</Map>
